@@ -54,5 +54,7 @@ The script provides the following options:
  - clear trash
  - clear spam
  - delete messages matching custom filter
+ - download all messages matching filter
+ - forward all messages matching filter
 
 **WARNING:** All messages will be deleted permanently (**not** moved to **Trash**).
